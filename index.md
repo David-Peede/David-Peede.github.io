@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Personal Website of David Peede
 
 You can use the [editor on GitHub](https://github.com/David-Peede/David-Peede.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
