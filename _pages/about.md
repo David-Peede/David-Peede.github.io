@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: [Brown University](https://www.brown.edu)
+subtitle: <a href="https://www.brown.edu/academics/ecology-and-evolutionary-biology">Department of Ecology, Evolution, and Organismal Biology</a>, <a href="https://www.brown.edu>Brown University</a>
 
 profile:
   align: right
