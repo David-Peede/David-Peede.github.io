@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://David-Peede.github.io/sitemap.xml
+Sitemap: https://david-peede.github.io/sitemap.xml
