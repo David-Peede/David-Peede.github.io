@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - David-Peede
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - David-Peede/BIOL1435
+  - David-Peede/chimp_maf_to_vcf
+  - Jazpy/ccmb-leetcode
